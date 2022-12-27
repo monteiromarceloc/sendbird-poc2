@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1012560244154",
+    "project_id": "test-app-5ce63",
+    "storage_bucket": "test-app-5ce63.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1012560244154:android:c344aaf7569ad3463d8183",
+        "android_client_info": {
+          "package_name": "com.monteiromarceloc.sendbirdpoc2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1012560244154-8fpm757qnguij44qovprr51lsdhpn7oo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiTn_fUca_jHGLzSGVxoPcMNWdqPxkd28"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1012560244154-8fpm757qnguij44qovprr51lsdhpn7oo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
